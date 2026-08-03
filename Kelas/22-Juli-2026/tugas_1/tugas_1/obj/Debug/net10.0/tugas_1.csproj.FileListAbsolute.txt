@@ -1,0 +1,14 @@
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\bin\Debug\net10.0\tugas_1.exe
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\bin\Debug\net10.0\tugas_1.deps.json
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\bin\Debug\net10.0\tugas_1.runtimeconfig.json
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\bin\Debug\net10.0\tugas_1.dll
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\bin\Debug\net10.0\tugas_1.pdb
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\obj\Debug\net10.0\tugas_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\obj\Debug\net10.0\tugas_1.AssemblyInfoInputs.cache
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\obj\Debug\net10.0\tugas_1.AssemblyInfo.cs
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\obj\Debug\net10.0\tugas_1.csproj.CoreCompileInputs.cache
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\obj\Debug\net10.0\tugas_1.dll
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\obj\Debug\net10.0\refint\tugas_1.dll
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\obj\Debug\net10.0\tugas_1.pdb
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\obj\Debug\net10.0\tugas_1.genruntimeconfig.cache
+C:\Users\tes\Documents\Kelas\22-Juli-2026\tugas_1\tugas_1\obj\Debug\net10.0\ref\tugas_1.dll
