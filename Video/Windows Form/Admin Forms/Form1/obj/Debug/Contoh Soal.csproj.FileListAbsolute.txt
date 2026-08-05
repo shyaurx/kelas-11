@@ -1,0 +1,5 @@
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Form1\obj\Debug\Contoh Soal.csproj.AssemblyReference.cache
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Form1\obj\Debug\Form1.Form2Register.resources
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Form1\obj\Debug\Form1.Form3Dashboard.resources
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Form1\obj\Debug\Contoh Soal.csproj.GenerateResource.cache
