@@ -1,0 +1,3 @@
+C:\Users\tes\Documents\shopee\obj\Debug\shopee.csproj.AssemblyReference.cache
+C:\Users\tes\Documents\shopee\obj\Debug\shopee.Form1.resources
+C:\Users\tes\Documents\shopee\obj\Debug\shopee.csproj.GenerateResource.cache
