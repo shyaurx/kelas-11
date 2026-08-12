@@ -1,0 +1,10 @@
+C:\Users\tes\Documents\konversi panjang\bin\Debug\konversi panjang.exe.config
+C:\Users\tes\Documents\konversi panjang\bin\Debug\konversi panjang.exe
+C:\Users\tes\Documents\konversi panjang\bin\Debug\konversi panjang.pdb
+C:\Users\tes\Documents\konversi panjang\obj\Debug\konversi panjang.csproj.AssemblyReference.cache
+C:\Users\tes\Documents\konversi panjang\obj\Debug\konversi_panjang.Form1.resources
+C:\Users\tes\Documents\konversi panjang\obj\Debug\konversi_panjang.Properties.Resources.resources
+C:\Users\tes\Documents\konversi panjang\obj\Debug\konversi panjang.csproj.GenerateResource.cache
+C:\Users\tes\Documents\konversi panjang\obj\Debug\konversi panjang.csproj.CoreCompileInputs.cache
+C:\Users\tes\Documents\konversi panjang\obj\Debug\konversi panjang.exe
+C:\Users\tes\Documents\konversi panjang\obj\Debug\konversi panjang.pdb
