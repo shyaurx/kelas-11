@@ -1,0 +1,17 @@
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\bin\Debug\Contoh Soal.exe.config
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\bin\Debug\Contoh Soal.exe
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\bin\Debug\Contoh Soal.pdb
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\Contoh Soal.csproj.AssemblyReference.cache
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\part1.Form1.resources
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\part1.Form2Register.resources
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\part1.Form3Dashboard.resources
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\part1.Form4Bandara.resources
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\part1.Form5Maskapai.resources
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\part1.Form6JadwalPenerbangan.resources
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\part1.Form7KodePromo.resources
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\part1.Form8UbahStatusPenerbangan.resources
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\Contoh_Soal.Properties.Resources.resources
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\Contoh Soal.csproj.GenerateResource.cache
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\Contoh Soal.csproj.CoreCompileInputs.cache
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\Contoh Soal.exe
+C:\Users\tes\Documents\Video\Windows Form\Admin Forms\Contoh Soal\obj\Debug\Contoh Soal.pdb
