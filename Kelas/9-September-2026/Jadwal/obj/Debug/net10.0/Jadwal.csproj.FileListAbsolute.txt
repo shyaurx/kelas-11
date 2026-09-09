@@ -1,0 +1,14 @@
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\obj\Debug\net10.0\Jadwal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\obj\Debug\net10.0\Jadwal.AssemblyInfoInputs.cache
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\obj\Debug\net10.0\Jadwal.AssemblyInfo.cs
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\obj\Debug\net10.0\Jadwal.csproj.CoreCompileInputs.cache
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\bin\Debug\net10.0\Jadwal.exe
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\bin\Debug\net10.0\Jadwal.deps.json
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\bin\Debug\net10.0\Jadwal.runtimeconfig.json
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\bin\Debug\net10.0\Jadwal.dll
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\bin\Debug\net10.0\Jadwal.pdb
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\obj\Debug\net10.0\Jadwal.dll
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\obj\Debug\net10.0\refint\Jadwal.dll
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\obj\Debug\net10.0\Jadwal.pdb
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\obj\Debug\net10.0\Jadwal.genruntimeconfig.cache
+C:\Users\tes\Documents\Kelas\9-September-2026\Jadwal\obj\Debug\net10.0\ref\Jadwal.dll
