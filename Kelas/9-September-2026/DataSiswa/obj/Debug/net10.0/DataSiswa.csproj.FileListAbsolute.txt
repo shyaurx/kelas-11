@@ -1,0 +1,14 @@
+C:\Users\tes\Documents\Kelas\DataSiswa\bin\Debug\net10.0\DataSiswa.exe
+C:\Users\tes\Documents\Kelas\DataSiswa\bin\Debug\net10.0\DataSiswa.deps.json
+C:\Users\tes\Documents\Kelas\DataSiswa\bin\Debug\net10.0\DataSiswa.runtimeconfig.json
+C:\Users\tes\Documents\Kelas\DataSiswa\bin\Debug\net10.0\DataSiswa.dll
+C:\Users\tes\Documents\Kelas\DataSiswa\bin\Debug\net10.0\DataSiswa.pdb
+C:\Users\tes\Documents\Kelas\DataSiswa\obj\Debug\net10.0\DataSiswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tes\Documents\Kelas\DataSiswa\obj\Debug\net10.0\DataSiswa.AssemblyInfoInputs.cache
+C:\Users\tes\Documents\Kelas\DataSiswa\obj\Debug\net10.0\DataSiswa.AssemblyInfo.cs
+C:\Users\tes\Documents\Kelas\DataSiswa\obj\Debug\net10.0\DataSiswa.csproj.CoreCompileInputs.cache
+C:\Users\tes\Documents\Kelas\DataSiswa\obj\Debug\net10.0\DataSiswa.dll
+C:\Users\tes\Documents\Kelas\DataSiswa\obj\Debug\net10.0\refint\DataSiswa.dll
+C:\Users\tes\Documents\Kelas\DataSiswa\obj\Debug\net10.0\DataSiswa.pdb
+C:\Users\tes\Documents\Kelas\DataSiswa\obj\Debug\net10.0\DataSiswa.genruntimeconfig.cache
+C:\Users\tes\Documents\Kelas\DataSiswa\obj\Debug\net10.0\ref\DataSiswa.dll
