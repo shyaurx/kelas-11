@@ -1,0 +1,14 @@
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\bin\Debug\net10.0\Pemograman Bereorentsi Projek.exe
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\bin\Debug\net10.0\Pemograman Bereorentsi Projek.deps.json
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\bin\Debug\net10.0\Pemograman Bereorentsi Projek.runtimeconfig.json
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\bin\Debug\net10.0\Pemograman Bereorentsi Projek.dll
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\bin\Debug\net10.0\Pemograman Bereorentsi Projek.pdb
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\obj\Debug\net10.0\Pemograman Bereorentsi Projek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\obj\Debug\net10.0\Pemograman Bereorentsi Projek.AssemblyInfoInputs.cache
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\obj\Debug\net10.0\Pemograman Bereorentsi Projek.AssemblyInfo.cs
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\obj\Debug\net10.0\Pemograman Bereorentsi Projek.csproj.CoreCompileInputs.cache
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\obj\Debug\net10.0\Pemograman Bereorentsi Projek.dll
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\obj\Debug\net10.0\refint\Pemograman Bereorentsi Projek.dll
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\obj\Debug\net10.0\Pemograman Bereorentsi Projek.pdb
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\obj\Debug\net10.0\Pemograman Bereorentsi Projek.genruntimeconfig.cache
+C:\Users\tes\Documents\Kelas\PBO\Pemograman Bereorentsi Projek\obj\Debug\net10.0\ref\Pemograman Bereorentsi Projek.dll

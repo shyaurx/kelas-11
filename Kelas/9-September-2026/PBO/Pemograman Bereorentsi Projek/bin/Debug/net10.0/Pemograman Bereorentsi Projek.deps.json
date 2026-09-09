@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Pemograman Bereorentsi Projek/1.0.0": {
+        "runtime": {
+          "Pemograman Bereorentsi Projek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pemograman Bereorentsi Projek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
